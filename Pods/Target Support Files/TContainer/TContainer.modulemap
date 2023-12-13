@@ -1,0 +1,6 @@
+framework module TContainer {
+  umbrella header "TContainer-umbrella.h"
+
+  export *
+  module * { export * }
+}

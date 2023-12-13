@@ -1,0 +1,24 @@
+PODS:
+  - LKJsApiExternal (0.1.1)
+  - LKJsApiExternalIMP (0.1.0):
+    - LKJsApiExternal
+  - TContainer (0.1.0):
+    - LKJsApiExternalIMP
+
+DEPENDENCIES:
+  - TContainer
+
+SPEC REPOS:
+  https://github.com/Aimeexu/JSpec.git:
+    - LKJsApiExternal
+    - LKJsApiExternalIMP
+    - TContainer
+
+SPEC CHECKSUMS:
+  LKJsApiExternal: 809c5814f2cd2460227070f67022ed4308d3864f
+  LKJsApiExternalIMP: c56175c4bfefac1ce9b1ec4ddda92ed8d38636bc
+  TContainer: af2928d4525c68d774335af5d345be5ca08c36e5
+
+PODFILE CHECKSUM: f2e4d69f57d4b28a8430455543a2004d679aba05
+
+COCOAPODS: 1.11.3

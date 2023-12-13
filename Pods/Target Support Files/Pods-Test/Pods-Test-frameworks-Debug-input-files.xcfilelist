@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Test/Pods-Test-frameworks.sh
+${BUILT_PRODUCTS_DIR}/LKJsApiExternal/LKJsApiExternal.framework
+${BUILT_PRODUCTS_DIR}/LKJsApiExternalIMP/LKJsApiExternalIMP.framework
+${BUILT_PRODUCTS_DIR}/TContainer/TContainer.framework

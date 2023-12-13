@@ -1,0 +1,6 @@
+framework module LKJsApiExternal {
+  umbrella header "LKJsApiExternal-umbrella.h"
+
+  export *
+  module * { export * }
+}
